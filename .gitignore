@@ -1,0 +1,7 @@
+# Fichier .gitignore pour ignorer les fichiers csv générés
+data/clean/*.csv
+data/sum/*.csv
+
+# Ignorer les fichiers d'erreurs
+errors/*.csv
+errors/*.txt
